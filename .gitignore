@@ -1,0 +1,12 @@
+# Private cryptographic keys
+issuer_private.pem
+*.key
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local environments and secrets
+.env
+.venv/
+venv/
